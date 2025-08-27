@@ -1,0 +1,5 @@
+{
+  "name": "SSB Travelz Concierge Chatbot",
+  "description": "An AI-powered travel assistant to help users explore tour packages from SSB Travelz. The chatbot provides information exclusively from the official company brochure.",
+  "requestFramePermissions": []
+}
